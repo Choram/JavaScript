@@ -16,7 +16,7 @@ function setup() {
   text("로나", 200, 200);
   */
 
-  var points = font.textToPoints('서민지', 100, 200, 192);
+  var points = font.textToPoints('초람', 100, 200, 192);
   console.log(points);
 
   for (var i = 0; i < points.length; i++) {
